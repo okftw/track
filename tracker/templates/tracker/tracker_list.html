@@ -1,0 +1,72 @@
+{% extends 'base.html' %}
+{% block title %}Home{% endblock %}
+{% block home_active %}class="active"{% endblock %}
+{% load static %}
+{% block content %}
+
+
+
+<center>
+
+  <p>
+    <h1>Welcome to the random workout generator,    <div class="fb-like" data-href="https://track.okftw.com/" data-width="" data-layout="button_count" data-action="like" data-size="large" data-share="true">
+                          </div></h1>
+
+  </p>
+  <p>This website is a <a href="https://en.wikipedia.org/wiki/High-intensity_interval_training" target="_blank">High-intensity interval training</a> application
+    that will give you a randomly selected exercise from the <a href="https://www.youtube.com/playlist?list=PLQSMS0J6JbrKdSOSbyJXaQ_zN_HSSp7zZ" target="_blank">DareBee workout library</a>.</p>
+  <p>These exercises do not require any equipment.</p>
+  <p>You will have <b>60</b> seconds to perform the exercise and then the page will reload with another random exercise.</p>
+  <p>If you don't like an exercise click <b>Skip Exercise</b> and you will move on to the next exercise.</p>
+  <p>There are currently <b>{{ exercise_count }}</b> exercises available.</p>
+  <p>There have been a total of <b>{{ entries_count }}</b> exercises performed on this website.</p>
+  <p>To get started you can either sign in as a <a href="{% url 'tracker:tracker_exercise' %}" target="_blank">guest</a> or <a href="{% url 'users:signup' %}">sign up</a> for an account if you want to record your workout history.</p>
+  <p>Note videos will not autoplay on iPhone and iPads due to Apple disabling autoplay to "save user data"...</p>
+  <p>The source code for the site is hosted in Github here <a href="https://github.com/okftw/track" target="_blank">Github.com/okftw/track</a></p>
+  <p>Feel free to raise an <a href="https://github.com/okftw/track/issues" target="_blank">Issue</a> or <a href="https://github.com/okftw/track/pulls" target="_blank">PR</a></p>
+  <a href="{% url 'tracker:tracker_exercise' %}" target="_blank">
+    <img src="{% static 'images/workout.png' %}" height="350px" width="600px">
+  </a>
+
+<h1>Today's Top Users</h1>
+
+{% for today_user in todays_top_users %}
+
+{{ today_user.Username }} has performed a total of {{ today_user.total }} exercises<br>
+
+{% endfor %}
+
+<h1>All Time Top Users</h1>
+
+{% for user in top_users %}
+
+{{ user.Username }} has performed a total of {{ user.total }} exercises<br>
+
+{% endfor %}
+
+<h1>Top 10 Performed Exercises</h1>
+
+{% for exercise in top_exercises %}
+
+{{ exercise.String_Value }} has been performed a total of {{ exercise.total }} times<br>
+
+{% endfor %}
+
+<h1>Top 10 Most Skipped Exercises</h1>
+
+{% for skipped_exercise in top_exercise_skipped %}
+
+{{ skipped_exercise.String_Value }} has been skipped a total of {{ skipped_exercise.total }} times<br>
+
+{% endfor %}
+
+
+
+<h1>Today's User Activity</h1>
+
+{% load render_table from django_tables2 %}
+{% render_table entriestable %}
+
+</center>
+
+{% endblock %}

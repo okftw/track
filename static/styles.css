@@ -1,0 +1,172 @@
+body{
+  background: ffffaa;
+}
+.rounded-box li {
+  list-style-type: none;
+  display : inline;
+}
+.rounded-box ul {
+  list-style-type: none;
+  display : inline;
+}
+.rounded-box {
+  font-family: "Roboto", Verdana, Avenir, "Lucida Grande", "Lucida Sans", sans-serif;
+  font-size: 16px;
+  margin: 0 auto;
+  /* width: 90%; */
+  border: 2px solid grey;
+  border-radius: 5px;
+  /* padding: 10px; */
+}
+
+.videoWrapper {
+	position: relative;
+	padding-bottom: 50%; /* 16:9 */
+	padding-top: 10px;
+	height: 0;
+}
+.videoWrapper iframe {
+	position: absolute;
+	top: 5;
+	left: 0;
+	width: 100%;
+	height: 95%;
+}
+
+/* TOP NAVIGATION  */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  /* font-size: 17px; */
+  font-size: 0.8125em;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+/* ^^ TOP NAVIGATION  */
+
+
+/* ROUND SLIDER  */
+
+.slidecontainer {
+  width: 100%;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 25px;
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider:hover {
+  opacity: 1;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+#block_container
+{
+    width: 40%;
+    margin: 0 auto;
+}
+#bloc1, #bloc2, #bloc3, #bloc4
+{
+    display:inline;
+    float:left;
+    padding: 3px;
+}
+
+.loginlogout {
+  float: right;
+  display : inline;
+}
+
+#profilecontent
+{
+  width: 50%;
+  margin: 0 auto;
+}
+
+
+/* Facebook Login */
+
+img {
+  border: 3px solid #282c34;
+}
+.container-fluid {
+  height: 100vh;
+  background-color: #282c34;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.container-fluid > div {
+  width: 85%;
+  min-width: 300px;
+  max-width: 500px;
+}
+.card {
+  width: 100%;
+}
+.social-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.btn a, .btn a:hover {
+  color: white;
+  text-decoration: none ;
+}
+
+tbody tr:nth-child(odd){
+  background-color: #F0F0F0;
+  color: #000;
+}
+td {
+    padding: 10px;
+}
+.roundrect {
+  border-radius: 15px;
+}
+
+.content {
+  width: 80%;
+  margin:0 auto;
+}

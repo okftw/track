@@ -1,0 +1,1625 @@
+[{
+    "model": "tracker.exercise",
+    "pk": "4XcGTvcSRxY",
+    "fields": {
+      "title": "Hop Heel Clicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "wqfRvXc7BHY",
+    "fields": {
+      "title": "Half Squat Walk"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "HAQvQXovwuo",
+    "fields": {
+      "title": "Side Splits"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "eGH70NGZ1po",
+    "fields": {
+      "title": "Side Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "4BSRusbjebw",
+    "fields": {
+      "title": "Side Kicks / Back Leg"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "XrM3OXvYmmQ",
+    "fields": {
+      "title": "Side Kicks / Side-to-Side"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "zZz30fcHbvE",
+    "fields": {
+      "title": "Double Side Kicks / Low &  Mid Height"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ZqQY9SlJiiQ",
+    "fields": {
+      "title": "Turning Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "HC46YYIaeVo",
+    "fields": {
+      "title": "Turning Kicks / Back Leg"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "kYVhL1HOOjE",
+    "fields": {
+      "title": "Turning Kicks / Side-to-Side"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "sIhscm9C93c",
+    "fields": {
+      "title": "Double Turning Kicks / Low & Mid Height"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "AF8cjZg6E9c",
+    "fields": {
+      "title": "Double Turning Kicks / Back Leg / Low & Mid Height"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Pktkg8EFLfk",
+    "fields": {
+      "title": "Front Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "JdBDa6XAqJc",
+    "fields": {
+      "title": "Front Kicks / Back Leg"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "3HzaIMk--vk",
+    "fields": {
+      "title": "Hook Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "qRahlIC3EQE",
+    "fields": {
+      "title": "Hook Kicks / Back Leg"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "PEjlGr3FTrg",
+    "fields": {
+      "title": "Push Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "7mOGylDcQH4",
+    "fields": {
+      "title": "Axe Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "01xjUrLWWrk",
+    "fields": {
+      "title": "Accordion Push-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "bfT5TaRFKQw",
+    "fields": {
+      "title": "Bear Crawl"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "bR-XzXen9xU",
+    "fields": {
+      "title": "Army Crawl"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "DFk3yGZv62U",
+    "fields": {
+      "title": "Alternative Arm / Leg Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ZTN2mCuYi2Y",
+    "fields": {
+      "title": "Body Saw"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "N48d7sm8dbU",
+    "fields": {
+      "title": "Bridges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "8lmxy4QKLbo",
+    "fields": {
+      "title": "Bridge Taps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "N1Ikv4MrwI0",
+    "fields": {
+      "title": "Bridge v2"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "lVZi-AwxLPo",
+    "fields": {
+      "title": "Butt Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "UV8gOrHmuKc",
+    "fields": {
+      "title": "Calf Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "w2iTOneGPdU",
+    "fields": {
+      "title": "Climbers"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "9pBEn_zQhoc",
+    "fields": {
+      "title": "Climber Taps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "HiRsmHH7psA",
+    "fields": {
+      "title": "Crunches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "sflrxv53L-o",
+    "fields": {
+      "title": "Dragon Push-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "xE9jmA_FDaA",
+    "fields": {
+      "title": "Dragon Push-Ups (Slower)"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "VFFaS0KKtps",
+    "fields": {
+      "title": "Elbow Plank Arm Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Akf3IP0H9fA",
+    "fields": {
+      "title": "Elbow Plank Leg Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "WRnq49TAv-w",
+    "fields": {
+      "title": "Flutter Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "F16nHvGbsiw",
+    "fields": {
+      "title": "Half Jacks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "9wMHvG6QInQ",
+    "fields": {
+      "title": "Hundreds"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "gG2Z1siSvkk",
+    "fields": {
+      "title": "Jumping Jacks v2"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "bIILw7Bsk_M",
+    "fields": {
+      "title": "Jumps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "bv7as8mDXLQ",
+    "fields": {
+      "title": "Jump Squats"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "wDbRpbJyMu8",
+    "fields": {
+      "title": "Knee-to-Elbow Crunches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "UpyDdQjBTa0",
+    "fields": {
+      "title": "Lunges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "48PIkHs1c9w",
+    "fields": {
+      "title": "Lunges v2"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "TyiujJcZHVY",
+    "fields": {
+      "title": "Plank Arm Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "qCE0U9yuJtc",
+    "fields": {
+      "title": "Planks Into Lunges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "3VpkyIcnT64",
+    "fields": {
+      "title": "Plank Jacks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "b-83f_fZ-H0",
+    "fields": {
+      "title": "Plank Jump-Ins"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "n8KThHwjgkY",
+    "fields": {
+      "title": "Plank Knee-Ins"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "IexgiQZetb8",
+    "fields": {
+      "title": "Plank Leg Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "t3elxPJ1HU4",
+    "fields": {
+      "title": "Plank Rolls"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "VBd6DBVNUYg",
+    "fields": {
+      "title": "Plank Rotations"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "RZU8A539nFg",
+    "fields": {
+      "title": "Plank Step-Outs"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "aLCQRU7lrRg",
+    "fields": {
+      "title": "Reverse Bounds"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "QYNZwyDKmhk",
+    "fields": {
+      "title": "Reverse Crunches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "vvNkomexxcs",
+    "fields": {
+      "title": "Scissor Chops"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "tugL2lM4Syk",
+    "fields": {
+      "title": " Scissors"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Cilm0WNRdCo",
+    "fields": {
+      "title": "Scissors (Arms)"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "8OeKO4PjTtM",
+    "fields": {
+      "title": "Side Leg Swings"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "HI8GLfsDs3Y",
+    "fields": {
+      "title": "Seagulls"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "fxrmaUVAajo",
+    "fields": {
+      "title": "Seal Jacks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "gWHQpMUd7vw",
+    "fields": {
+      "title": "Shoulder Taps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "xMtCZE6rEiA",
+    "fields": {
+      "title": "Side Bridges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "H8RrfDOLiZU",
+    "fields": {
+      "title": "Side Leg Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "RrXJTIxyiC8",
+    "fields": {
+      "title": "Side Plank Rotations"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "oHq-TC9TPpI",
+    "fields": {
+      "title": "Side-to-Side Jumps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "RvDPD_hWX6E",
+    "fields": {
+      "title": "Sit-Outs"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "l2XsG9W5rYo",
+    "fields": {
+      "title": "Sitting Twists"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "srkZvYI9brM",
+    "fields": {
+      "title": "Sit-Ups v2"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "WixPjH4Y5tw",
+    "fields": {
+      "title": "Slow Climbers"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Zqc_lc93hak",
+    "fields": {
+      "title": "Squats"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "EHUeE1ShiYU",
+    "fields": {
+      "title": "Dynamic Squats"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "NYH6L2doDm4",
+    "fields": {
+      "title": "Straight Leg Bounds"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "67rgxYNKbZY",
+    "fields": {
+      "title": "Superman"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "sgc_gNStBqc",
+    "fields": {
+      "title": "Thigh Taps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "wTfWbsQql1o",
+    "fields": {
+      "title": "Toe Tap Hops"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "BY2pl7rltUY",
+    "fields": {
+      "title": "Toe Taps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "fR_aMGh_F60",
+    "fields": {
+      "title": "Twist Jacks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "AAPpXm-q7lc",
+    "fields": {
+      "title": "Up & Down Planks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "VZF5GWd7t9E",
+    "fields": {
+      "title": "Squat + Jumping Jack"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Fum_2H2cog4",
+    "fields": {
+      "title": "Side Planks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "QGiiuBOQn3Y",
+    "fields": {
+      "title": "Donkey Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "5bOjqyL0PGE",
+    "fields": {
+      "title": "Sit-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "JHdVMkRBuRA",
+    "fields": {
+      "title": "Step Jacks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "6qSILDd7H94",
+    "fields": {
+      "title": "Half Squat Rows"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "LMZ6IGEUya4",
+    "fields": {
+      "title": "Backfists Side-to-Side"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ow2-_7CJUXE",
+    "fields": {
+      "title": "Backfists"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "scAal71n7p8",
+    "fields": {
+      "title": "Backfist + Side Kick Side-to-Side"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "3YjSjPHGhhI",
+    "fields": {
+      "title": "Backfist + Side Kick"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "_cUV0rWU92s",
+    "fields": {
+      "title": "jab + Cross + Squat"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "v2bj8ijN82w",
+    "fields": {
+      "title": "Archer Lunges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "3Qp8BQ0Rcrc",
+    "fields": {
+      "title": "Archers"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "4PUZfAYeuBE",
+    "fields": {
+      "title": "Back Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "YLfUEHxYvMw",
+    "fields": {
+      "title": "Bounces"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "8BaS28MG7mw",
+    "fields": {
+      "title": "Cross Chops"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "DQtHY0bQ4N8",
+    "fields": {
+      "title": "Deep Cross Chops"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "RFcZ-Khz0pY",
+    "fields": {
+      "title": "Double Side Kick"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "c7oF6PoDVZw",
+    "fields": {
+      "title": "Double Side Kick / Side-to-Side"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ftfpTRfcrqI",
+    "fields": {
+      "title": "Drop Back Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ujppQiig9CU",
+    "fields": {
+      "title": "Elbow Strikes"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "4VOcf7j4VTM",
+    "fields": {
+      "title": "Hooks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "q4CKZ7OI6Ps",
+    "fields": {
+      "title": "Infinity Chops"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "FzJRBtvvYGY",
+    "fields": {
+      "title": "Infinity Circles"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "7S-FSrHUN1A",
+    "fields": {
+      "title": "Jab + Cross"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "HWWE_5tE8VQ",
+    "fields": {
+      "title": "Jab + Cross + Jab + Double Side Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "P8Q7pbPbNH0",
+    "fields": {
+      "title": "Jab + Cross + Jab + Double Turning Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "9CHcm-5Aej4",
+    "fields": {
+      "title": "Jab + Cross + Jab + Turning Kick"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "VxQWbxaV_9w",
+    "fields": {
+      "title": "Jab + Jab + Cross"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "JGExGAmVvBk",
+    "fields": {
+      "title": "Jab + Jab + Cross + Hook"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "RBiqNyxcnco",
+    "fields": {
+      "title": "Knee Strikes"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "xQD-O5Y-qrs",
+    "fields": {
+      "title": "Knee Strikes / Back Leg"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "jOrjXxe6ITw",
+    "fields": {
+      "title": "Knee Strike + Elbow Strike"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "8UPuSGBGsmg",
+    "fields": {
+      "title": "Knee Strike + Turning Kick + Side Kick"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "wO_WUzVXyWc",
+    "fields": {
+      "title": "Knife Hand Strike"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Y8NqJiaTR6Q",
+    "fields": {
+      "title": "Knife Hand Strike / Back Hand"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "fSz6eTEkHRM",
+    "fields": {
+      "title": "Low Turning Kick / Back Leg"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "QE_JNPqW9_Y",
+    "fields": {
+      "title": "Low Turning Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "T_PA0dpL86M",
+    "fields": {
+      "title": "Lunge Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "bdzrzvqcyBc",
+    "fields": {
+      "title": "Lunge Punches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "WnuS0MLpLDA",
+    "fields": {
+      "title": "Lunge Push Strikes"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "hvW4IPvBU3E",
+    "fields": {
+      "title": "Outward Knife Hand Strikes"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "UPV4156lSyc",
+    "fields": {
+      "title": "Overhead Punches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "E2Afdzdc-7E",
+    "fields": {
+      "title": "Palm Strikes"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "M_4Vt5lfEUE",
+    "fields": {
+      "title": "Punches / Straight"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "GxZnA9hoIbE",
+    "fields": {
+      "title": "Push Strikes"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "hUXxsuNqGtE",
+    "fields": {
+      "title": "Push-Up + Jab + Cross"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "LkAIHkKXYB4",
+    "fields": {
+      "title": "Side Chops"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "dTGZS-WCH4U",
+    "fields": {
+      "title": "Side Lunges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "KXoVm0WXcfE",
+    "fields": {
+      "title": "Side-to-Side Lunges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "8lDhhrj-odk",
+    "fields": {
+      "title": "Speed Bag Punches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "B7wTCQHAOC4",
+    "fields": {
+      "title": "Squat + Front Kick"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "H29dYPRZNCE",
+    "fields": {
+      "title": "Squat Hold Punches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "yE7l9EovL3E",
+    "fields": {
+      "title": "Squat + Hook"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "qzyFuvvurSM",
+    "fields": {
+      "title": "Squat + Side Kick"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "5T12EmldUIY",
+    "fields": {
+      "title": "Squat + Turning Kick"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "gNU_G_oGiwg",
+    "fields": {
+      "title": "Squat + Turning Kick / Back Leg"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "KroPA68xBWo",
+    "fields": {
+      "title": "Squat + Uppercut"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "WRd5zsPixIY",
+    "fields": {
+      "title": "Uppercut"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "9Vy5BfIlr-8",
+    "fields": {
+      "title": "Upward Elbow Strikes"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "igsK29nb-hY",
+    "fields": {
+      "title": "Upward Elbow Strike / Step-In"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "UaQEwCyunC0",
+    "fields": {
+      "title": "Upward Palm Strikes"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "N9vYpmtCQ2U",
+    "fields": {
+      "title": "Elbow Strikes / Step-Ins"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "GlRf9STzF7k",
+    "fields": {
+      "title": "Balance Back Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "mXEiJQPqqgE",
+    "fields": {
+      "title": "Balance Side Lunges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "El_Sj5hisSs",
+    "fields": {
+      "title": "Chest Expansions"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "g-1mM5SuKQ8",
+    "fields": {
+      "title": "Double Chest Expansions"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "jKT7-9L935g",
+    "fields": {
+      "title": "Air Bike Crunches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "2nuVRRDO4gc",
+    "fields": {
+      "title": "Bodyweight Bicep Curls"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "pXN6y4uUuMw",
+    "fields": {
+      "title": "Butterfly Sit-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "fKbwSN6hwxw",
+    "fields": {
+      "title": "Butt-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "n6NYu9d7uwk",
+    "fields": {
+      "title": "Crunch Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "2r70AJlDJLQ",
+    "fields": {
+      "title": "Half Squat Ts"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Z-Agg8x8O7k",
+    "fields": {
+      "title": "Half Squat Walk"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "emrs9ZjM3FA",
+    "fields": {
+      "title": "Half Wipers"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "jfXcyLTuKP4",
+    "fields": {
+      "title": "Heel Taps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "W-5q50TkMio",
+    "fields": {
+      "title": "High Crunches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Kq5lZ4o26Ho",
+    "fields": {
+      "title": "Jumping Lunges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "bdTT0sz5s_c",
+    "fields": {
+      "title": "Jumping Ts"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ZL9Y-IIedb0",
+    "fields": {
+      "title": "Knee-to-Elbows"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "f2o9-Lq16Ao",
+    "fields": {
+      "title": "Lawnmowers"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "_OQaO65Vdzs",
+    "fields": {
+      "title": "Leg Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "GmrgJGwmBFY",
+    "fields": {
+      "title": "L Sit-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "sHpBSJeHFMs",
+    "fields": {
+      "title": "Pistol Squats  / Half Way"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "O8NJySgPwWE",
+    "fields": {
+      "title": "Plank Side Crunches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Ao-nV3IdINQ",
+    "fields": {
+      "title": "Plank Walk-Outs"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "xDcqdsGLzLE",
+    "fields": {
+      "title": "Pop-Up Tripod"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "wG9634VCjck",
+    "fields": {
+      "title": "Pop-Up Tripod"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Dv3G4WOFG5A",
+    "fields": {
+      "title": "Pulse-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "g3oaRLbo-yw",
+    "fields": {
+      "title": "Raised Arm Circles"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "2Vwfd-Q8MDs",
+    "fields": {
+      "title": "Raised Leg Circles"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "yut42mEQXTk",
+    "fields": {
+      "title": "Raised Leg Crunches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "baHy6u93bfQ",
+    "fields": {
+      "title": "Roll-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "NlwB3U883Zo",
+    "fields": {
+      "title": "Rotations"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "XUDOpNWhVr0",
+    "fields": {
+      "title": "Shrimp Squats"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ww0r9xZunDM",
+    "fields": {
+      "title": "Side Arm Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "6sHRqhKCJeA",
+    "fields": {
+      "title": "Side Jackknives"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ioXJRP6HdbU",
+    "fields": {
+      "title": "Side Star Planks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "CsP26894Fw8",
+    "fields": {
+      "title": "Side Plank Knee Taps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "BqIryHLrTAg",
+    "fields": {
+      "title": "Sitting Punches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "y6lW-GmjhvQ",
+    "fields": {
+      "title": "Sit-Up Punches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "WNi392v4mJA",
+    "fields": {
+      "title": "Sit-Up Elbow Strikes"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "srDMn6iNrsc",
+    "fields": {
+      "title": "Skiers"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "JVUjxCXDZUc",
+    "fields": {
+      "title": "Speed Skater Slides"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "wRqGReHI3oo",
+    "fields": {
+      "title": "Squat Step-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Z7BQY661ImQ",
+    "fields": {
+      "title": "Superman Into V-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "h6TY6N1B7BA",
+    "fields": {
+      "title": "Twists"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "rmEVorjxBWs",
+    "fields": {
+      "title": "Sumo Squats"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "3npJSSGOpXg",
+    "fields": {
+      "title": "Windshield Wipers"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "zzauMwuTFUg",
+    "fields": {
+      "title": "Plank Punches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "v9LABVJzv8A",
+    "fields": {
+      "title": "Push-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "SwoNNo4W1OU",
+    "fields": {
+      "title": "Push-Ups / Close Grip"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "1Y8pTxdwf3M",
+    "fields": {
+      "title": "Push-Ups / Wide Grip"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "SNfgW5r0nOo",
+    "fields": {
+      "title": "Single Leg Bridges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "TaOit8L53QI",
+    "fields": {
+      "title": "Jump Cross Punches"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "E-Oc0zjeqWo",
+    "fields": {
+      "title": "Burpees"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "mG0iaoLM2vc",
+    "fields": {
+      "title": "Burpees - Basic"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ZQzikdjmkKg",
+    "fields": {
+      "title": "Burpees with a Push-Up"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "aMD25OIumts",
+    "fields": {
+      "title": "Burpees with Rotations"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Zj_I4lE_3uM",
+    "fields": {
+      "title": "Flow Steps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "pHPNrrcMobE",
+    "fields": {
+      "title": "Fly Steps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Js_-S-Qcqdc",
+    "fields": {
+      "title": "Full Bridge + Reach"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "p6j00E71rvE",
+    "fields": {
+      "title": "Full Bridges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "n47X4HOhfUk",
+    "fields": {
+      "title": "Get-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "DfjpR6dzLVg",
+    "fields": {
+      "title": "High Knees"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "iOJWztzaSlk",
+    "fields": {
+      "title": "High Squats"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "XG6eVjFp0hw",
+    "fields": {
+      "title": "Hops - Ape"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "42DO_okRZ1Q",
+    "fields": {
+      "title": "Hops on the Spot"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "NTqBhdYuT6M",
+    "fields": {
+      "title": "Side-to-Side Hops"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "0ZxLHEKzBp4",
+    "fields": {
+      "title": "Side-to-Side Hops - feet Together"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "ArZXCfbjxWs",
+    "fields": {
+      "title": "Jump Knee-Tucks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "OjFo600wGK4",
+    "fields": {
+      "title": "Lasso Twists"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "KM6-6xTRpow",
+    "fields": {
+      "title": "Lunge Step-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "qIDC7Ttfjn0",
+    "fields": {
+      "title": "March Jacks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "PnjYoDKj32c",
+    "fields": {
+      "title": "Reverse Lunge Knee Taps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "3eIPmCV_1HM",
+    "fields": {
+      "title": "Reverse Plank Kicks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "83cVgok6KrI",
+    "fields": {
+      "title": "Split Jacks"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "kaFs0XcgUfo",
+    "fields": {
+      "title": "Sprinter Lunges"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "8JLMA-Z5S1o",
+    "fields": {
+      "title": "Squat Cross Steps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "wYoE11arXIw",
+    "fields": {
+      "title": "Squat Hold Calf Raises"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "tQbcc27zjiA",
+    "fields": {
+      "title": "Diver Push-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "FO3MZNFQS28",
+    "fields": {
+      "title": "Staggered Push-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "YEDCkJ-Uv7c",
+    "fields": {
+      "title": "Stacked Push-Ups"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "Uus6eOLqX3A",
+    "fields": {
+      "title": "Katana Infinity Circles"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "bhXJ1lzHuJ4",
+    "fields": {
+      "title": "Katana  - Vertical Cuts"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "4_R0GgN8ITQ",
+    "fields": {
+      "title": "Katana  - Cross Cuts"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "NIxu3NHQmec",
+    "fields": {
+      "title": "Katana  - Horizontal Cuts"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "uWLFCRHU0Og",
+    "fields": {
+      "title": "Side Bends"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "77FNvJPaVjs",
+    "fields": {
+      "title": "Micro Chest Expansions"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "j9NPpdmG89s",
+    "fields": {
+      "title": "Standing Shoulder Taps"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "l5dfkW6w5qI",
+    "fields": {
+      "title": "Bicep Extensions"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "l5dfkW6w5qI",
+    "fields": {
+      "title": "Bicep Extensions"
+    }
+  },
+  {
+    "model": "tracker.exercise",
+    "pk": "D40wm6vbI_0",
+    "fields": {
+      "title": "Raised Arms Circles"
+    }
+  }
+]

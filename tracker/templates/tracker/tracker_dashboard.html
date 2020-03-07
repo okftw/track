@@ -1,0 +1,63 @@
+{% extends 'base.html' %}
+{% block dashboard_active %}class="active"{% endblock %}
+{% block title %}Dashboard{% endblock %}
+{% block content %}
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
+
+<div class="content">
+<center>
+
+
+	<div id="container" style="width: 75%;">
+		<canvas id="weight_canvas" width="400" height="100"></canvas>
+    <canvas id="exercise_canvas" width="400" height="100"></canvas>
+	</div>
+
+	<script>
+	new Chart(document.getElementById("weight_canvas"), {
+	    type: 'bar',
+	    data: {
+	      labels: {{ weight_labels | safe }},
+	      datasets: [
+	        {
+	          label: "Weight (kg)",
+	          backgroundColor: ["#3e95cd"],
+	          data: {{ weight_data | safe }}
+	        }
+	      ]
+	    },
+	    options: {
+	      legend: { display: false },
+	      title: {
+	        display: true,
+	        text: 'Weight (kg)'
+	      }
+	    }
+	});
+new Chart(document.getElementById("exercise_canvas"), {
+    type: 'bar',
+    data: {
+      labels: {{ exercise_labels | safe }},
+      datasets: [
+        {
+          label: "Exercise Count",
+          backgroundColor: ["#3e95cd"],
+          data: {{ exercise_data | safe }}
+        }
+      ]
+    },
+    options: {
+      legend: { display: false },
+      title: {
+        display: true,
+        text: 'Exercise Count'
+      }
+    }
+});
+	</script>
+
+
+</center>
+</div>
+
+{% endblock %}

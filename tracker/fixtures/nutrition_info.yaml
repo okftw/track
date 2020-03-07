@@ -1,0 +1,18 @@
+-   model: tracker.nutritioninfo
+    pk: 1
+    fields:
+        name: apple
+        glycemicindex: 38
+        glycemicload: 6
+        info: yellow ladyn\apple
+-   model: tracker.nutritioninfo
+    pk: 2
+    fields:
+        name: grapefruit
+        glycemicindex: 25
+        glycemicload: 3
+        info: >-
+          <ul>
+            <li>do not mix with medication</li>
+            <li>anti-inflamation</li>
+          </ul>

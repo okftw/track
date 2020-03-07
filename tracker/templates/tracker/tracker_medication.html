@@ -1,0 +1,19 @@
+{% extends 'base.html' %}
+{% block medication_active %}class="active"{% endblock %}
+{% block title %}Medication{% endblock %}
+{% block content %}
+
+<div class="content">
+<center>
+  <form class="site-form" action="{% url 'tracker:tracker_medication' %}" method="post">
+    {{ form }}
+    {% csrf_token %}
+    <input type="submit" value="Create">
+  </form>
+
+{% load render_table from django_tables2 %}
+{% render_table medicationtable %}
+</center>
+</div>
+
+{% endblock %}

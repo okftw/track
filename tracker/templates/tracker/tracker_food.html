@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% block food_active %}class="active"{% endblock %}
+{% block title %}Food{% endblock %}
+{% block content %}
+
+<div class="content">
+
+  <form class="site-form" action="{% url 'tracker:tracker_food' %}" method="post">
+    {{ form }}
+    {% csrf_token %}
+    <input type="submit" value="Create">
+  </form>
+
+<!-- {% load render_table from django_tables2 %}
+{% render_table foodtable %} -->
+<table>
+<tr><td><b>Timestamp</b></td><td><b>Food</b></td><td><b>Additional Information</b></td><td><b>Glycemic Index</b><td><td><b>Glycemic Load</b><td><td><b>Nutritional Information</b><td></tr>
+
+{% for entry in entries %}
+
+<tr>
+  <td>{{ entry.DateTime }}</td>
+  <td>{{ entry.String_Value }}</td>
+  <td>{{ entry.Additional_Information }}</td>
+  <td>{{ entry.Nurtrition_Info__glycemicindex | safe }}<td>
+  <td>{{ entry.Nurtrition_Info__glycemicload | safe }}<td>
+  <td>{{ entry.Nurtrition_Info__info | safe }}<td>
+</tr>
+
+{% endfor %}
+</table>
+
+</div>
+
+{% endblock %}

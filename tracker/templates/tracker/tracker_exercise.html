@@ -1,0 +1,66 @@
+{% extends 'base.html' %}
+{% block title %}Exercise{% endblock %}
+{% block exercise_active %}class="active"{% endblock %}
+{% block head_javascript %}
+  <script type="text/javascript">
+    //<![CDATA[
+
+    window.onload = function() {
+
+      var seconds = document.getElementById("countdown").textContent;
+      var countdown = setInterval(function() {
+        seconds--;
+        document.getElementById("countdown").textContent = seconds;
+        if (seconds <= 10) {
+          document.getElementById("exercise_state").textContent = "Rest";
+          document.getElementById("exercise_state").style.color = 'orange';
+
+        }
+        if (seconds <= 0) {
+          document.getElementById("exercise_state").textContent = "Exercise";
+          document.getElementById("exercise_state").style.color = 'green';
+          location.reload();
+        }
+      }, 1000);
+
+    }
+
+    //]]>
+  </script>
+{% endblock %}
+{% block content %}
+
+<div class="content">
+  <center>
+    <div id="block_container">
+      <div id="bloc1">
+        <font color="green"><span id="exercise_state">Exercise</span> :</font><span id="countdown">{{ countdown_number }}</span> seconds
+      </div>
+      <div id="bloc2">
+        <form action="/tracker/exercise/" method="post">
+          <input type="hidden" id="skip_exercise_id" name="skip_exercise_id" value="{{ exercise_id }}">
+          <button type="submit">Skip Exercise</button>
+          {% csrf_token %}
+        </form>
+      </div>
+
+      <div id="bloc3">
+        <font color="blue">Today's Exercise Count :</font> {{ entries_count }}
+      </div>
+    </div>
+  </center>
+  <br>
+
+  <div class="videoWrapper">
+    <iframe width="80%" height="60%" src="https://www.youtube.com/embed/{{ exercise.id }}?loop=1&autoplay=1&mute=1&playlist={{ exercise.id }}&controls=0&modestbranding=1" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture,playsinline,webkit-playsinline">
+    </iframe>
+  </div>
+<center>
+{% load render_table from django_tables2 %}
+{% render_table entriestable %}
+</center>
+</div>
+
+
+{% endblock %}
