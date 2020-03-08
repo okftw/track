@@ -63,4 +63,4 @@ class UserProfileForm(ModelForm):
     class Meta:
         model = UserProfile
         weight_tracker = forms.BooleanField(initial=True)
-        fields = ['age','weight','height','weight_tracker','countdown_number']
+        fields = ['age','weight','height','weight_tracker','bm_tracker','countdown_number']
