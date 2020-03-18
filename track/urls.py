@@ -22,5 +22,6 @@ urlpatterns = [
     path('tracker/', include('tracker.urls')),
     path('users/', include('users.urls')),
     url(r'^admin/', admin.site.urls),
+    url('', include('social_django.urls', namespace='social')),
     url(r'^$', tracker_views.index, name="home"),
 ]
