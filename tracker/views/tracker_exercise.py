@@ -34,10 +34,11 @@ def tracker_exercise(request):
     entriestable = EntriesTable(entries)
 
     countdown_number = 60
-    if request.user.is_authenticated:
-        profile_user = UserProfile.objects.filter(user=request.user)
-        countdown_number = profile_user[0].countdown_number
-        logging.debug(countdown_number)
+
+    # if request.user.is_authenticated:
+    #     profile_user = UserProfile.objects.filter(user=request.user)
+    #     countdown_number = profile_user[0].countdown_number
+
 
     return render(request, 'tracker/tracker_exercise.html', {
             'form': form ,

@@ -11,6 +11,7 @@
 	<div id="container" style="width: 75%;">
 		<canvas id="weight_canvas" width="400" height="100"></canvas>
     <canvas id="exercise_canvas" width="400" height="100"></canvas>
+		<canvas id="bm_canvas" width="400" height="100"></canvas>
 	</div>
 
 	<script>
@@ -54,6 +55,26 @@ new Chart(document.getElementById("exercise_canvas"), {
       }
     }
 });
+	new Chart(document.getElementById("bm_canvas"), {
+	    type: 'bar',
+	    data: {
+	      labels: {{ bm_labels | safe }},
+	      datasets: [
+	        {
+	          label: "BM",
+	          backgroundColor: ["#3e95cd"],
+	          data: {{ bm_data | safe }}
+	        }
+	      ]
+	    },
+	    options: {
+	      legend: { display: false },
+	      title: {
+	        display: true,
+	        text: 'BM'
+	      }
+	    }
+	});
 	</script>
 
 
