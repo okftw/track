@@ -18,11 +18,12 @@
 	new Chart(document.getElementById("weight_canvas"), {
 	    type: 'bar',
 	    data: {
+
 	      labels: {{ weight_labels | safe }},
 	      datasets: [
 	        {
 	          label: "Weight (kg)",
-	          backgroundColor: ["#3e95cd"],
+	          backgroundColor: "#4CAF50",
 	          data: {{ weight_data | safe }}
 	        }
 	      ]
@@ -42,7 +43,7 @@ new Chart(document.getElementById("exercise_canvas"), {
       datasets: [
         {
           label: "Exercise Count",
-          backgroundColor: ["#3e95cd"],
+          backgroundColor: "#4CAF50",
           data: {{ exercise_data | safe }}
         }
       ]
@@ -62,7 +63,7 @@ new Chart(document.getElementById("exercise_canvas"), {
 	      datasets: [
 	        {
 	          label: "BM",
-	          backgroundColor: ["#3e95cd"],
+	          backgroundColor: "#4CAF50",
 	          data: {{ bm_data | safe }}
 	        }
 	      ]
